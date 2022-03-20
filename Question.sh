@@ -9,3 +9,6 @@ then
 else
 	echo "Employee is Absent"
 fi
+daily_wage=$((20*8))
+echo "Employee Daily Wage: $daily_wage"
+
